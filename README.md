@@ -1,6 +1,12 @@
-&#x20;\<p align="center">   \<a href="[https://github.com/viktorijacodes](https://github.com/viktorijacodes)">     \<img src="[https://capsule-render.vercel.app/api?type=transparent&fontColor=E8A0BF&fontSize=54&height=90&width=698&text=%E0%AD%A8%E0%AD%A7%20hello%2C%20world!%20%E0%AD%A8%E0%AD%A7](https://capsule-render.vercel.app/api?type=transparent\&fontColor=E8A0BF\&fontSize=54\&height=90\&width=698\&text=%E0%AD%A8%E0%AD%A7%20hello%2C%20world!%20%E0%AD%A8%E0%AD%A7)" alt="୨୧ hello, world! ୨୧" />   \</a> \</p>
+&#x20;\<p align="center">
+&#x20; \<a href="[https://github.com/viktorijacodes](https://github.com/viktorijacodes)">
+&#x20;   \<img src="[https://capsule-render.vercel.app/api?type=transparent&fontColor=E8A0BF&fontSize=54&height=90&width=698&text=%E0%AD%A8%E0%AD%A7%20hello%2C%20world!%20%E0%AD%A8%E0%AD%A7](https://capsule-render.vercel.app/api?type=transparent\&fontColor=E8A0BF\&fontSize=54\&height=90\&width=698\&text=%E0%AD%A8%E0%AD%A7%20hello%2C%20world!%20%E0%AD%A8%E0%AD%A7)" alt="୨୧ hello, world! ୨୧" />
+&#x20; \</a>
+\</p>
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E8A0BF&center=true&vCenter=true&width=445&height=44&lines=turning%20curiosity%20into%20code](https://readme-typing-svg.demolab.com?font=Caveat\&weight=600\&size=26\&pause=1000\&color=E8A0BF\&center=true\&vCenter=true\&width=445\&height=44\&lines=turning%20curiosity%20into%20code)" alt="Typing headlines" /> \</p>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=E8A0BF&center=true&vCenter=true&width=445&height=44&lines=turning%20curiosity%20into%20code](https://readme-typing-svg.demolab.com?font=Caveat\&weight=600\&size=26\&pause=1000\&color=E8A0BF\&center=true\&vCenter=true\&width=445\&height=44\&lines=turning%20curiosity%20into%20code)" alt="Typing headlines" />
+\</p>
 
 \<h3 align="center">───── ୨ৎ About Me ୨ৎ ─────\</h3>
 
@@ -22,17 +28,15 @@
 
 \<h3 align="center">───── ୨ৎ GitHub Stats ୨ৎ ─────\</h3>
 
-\<p align="center">   \<img width="420" height="180"     src="[https://github-readme-stats-five-sigma-99.vercel.app/api?username=viktorijacodes&show_icons=true&theme=default&title_color=D98FB3&icon_color=E8A0BF&text_color=8C667A&hide_border=true&bg_color=FFFFFF&count_private=true](https://github-readme-stats-five-sigma-99.vercel.app/api?username=viktorijacodes\&show_icons=true\&theme=default\&title_color=D98FB3\&icon_color=E8A0BF\&text_color=8C667A\&hide_border=true\&bg_color=FFFFFF\&count_private=true)"     alt="GitHub statistics" />
+\<p align="center">   \<img     src="[https://github-readme-stats-five-sigma-99.vercel.app/api?username=viktorijacodes&show_icons=true&theme=default&title_color=D98FB3&icon_color=E8A0BF&text_color=8C667A&hide_border=true&bg_color=FFFFFF&count_private=true&card_width=400&hide=contribs&custom_title=GitHub%20Statistics](https://github-readme-stats-five-sigma-99.vercel.app/api?username=viktorijacodes\&show_icons=true\&theme=default\&title_color=D98FB3\&icon_color=E8A0BF\&text_color=8C667A\&hide_border=true\&bg_color=FFFFFF\&count_private=true\&card_width=400\&hide=contribs\&custom_title=GitHub%20Statistics)"     alt="GitHub statistics" />
 
-\<img width="420" height="180"  src="[https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=viktorijacodes&layout=compact&theme=default&title_color=D98FB3&icon_color=E8A0BF&text_color=8C667A&hide_border=true&bg_color=FFFFFF&langs_count=8](https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=viktorijacodes\&layout=compact\&theme=default\&title_color=D98FB3\&icon_color=E8A0BF\&text_color=8C667A\&hide_border=true\&bg_color=FFFFFF\&langs_count=8)"  alt="Top languages" />
+\<img  src="[https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=viktorijacodes&layout=compact&theme=default&title_color=D98FB3&text_color=8C667A&hide_border=true&bg_color=FFFFFF&langs_count=8&card_width=400](https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=viktorijacodes\&layout=compact\&theme=default\&title_color=D98FB3\&text_color=8C667A\&hide_border=true\&bg_color=FFFFFF\&langs_count=8\&card_width=400)"  alt="Top languages" />
 
 \</p>
 
 \<h3 align="center">───── ୨ৎ Dev Quote ୨ৎ ─────\</h3>
 
-\<p align="center">
-&#x20; \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=rose_pine)" alt="Developer quote" />
-\</p>
+\<p align="center">   \<img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=rose_pine](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=rose_pine)" alt="Developer quote" /> \</p>
 
 \<br>
 
